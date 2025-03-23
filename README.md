@@ -1,4 +1,4 @@
-# Controlling a fan module with Arduino using a potentiometer
+# Controlling fan speed with Arduino using a potentiometer
 Adjusting a fan's speed using an Arduino is a great way to learn about PWM (Pulse Width Modulation) and motor control. With just a potentiometer and some simple wiring, you can create a smooth, manual speed adjustment system. This setup is useful for cooling electronics, ventilation projects, or any application where adjustable airflow is needed.  
 
 ├ src  
